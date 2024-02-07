@@ -102,14 +102,6 @@ const AddEmployeeComponent = () => {
 export default AddEmployeeComponent;
 
 
-// Imports:
-// Import necessary React components and hooks from the react library.
-// Import the EmployeeService for making API calls.
-// Import Link, useNavigate, and useParams from react-router-dom for navigation and accessing URL parameters.
-// Functional Component:
-
-// Define the functional component AddEmployeeComponent.
-// State Variables:
 
 // Use the useState hook to declare state variables firstName, lastName, and email to store input values.
 // Hooks:

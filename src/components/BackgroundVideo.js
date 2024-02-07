@@ -15,26 +15,3 @@ const BackgroundVideo = () => {
 };
 
 export default BackgroundVideo;
-
-// Functional Component:
-
-// BackgroundVideo is a functional component that represents the background video.
-// HTML Structure:
-
-// The component returns a div element with the class name "background-video."
-// Video Element:
-
-// Inside the div, there's a video element with several attributes:
-// autoPlay: Automatically starts playing the video.
-// loop: Makes the video loop continuously.
-// muted: Mutes the audio of the video.
-// playsInline: Allows the video to play inline on mobile devices.
-// The video element contains a source element specifying the source (src) and type (type) of the video.
-// The source is a Vimeo video URL in MP4 format.
-// If the browser doesn't support the video tag, the text "Your browser does not support the video tag." is displayed.
-// Export:
-
-// The component is exported to be used in other parts of the application.
-
-
-
